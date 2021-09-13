@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NYTimes</string>
+    <string name="title_activity_web">WebActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="candidate">Phenyo Sebogodi</string>
+    <string name="assessment">Android Assessment</string>
+</resources>
