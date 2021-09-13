@@ -10,6 +10,7 @@ This is a simple news feed application based on Retrofit and CardView, The desc
 - [Retrofit] - A type-safe HTTP client for Android and Java.
 - [GSON Converter] - A Converter which uses Gson for serialization to and from JSON.
 - [ViewModel] - Stores UI-related data that isn't destroyed on UI changes. 
+- Glide Loading and caching images
 - API for Flash News App is from  [https://developer.nytimes.com/get-started]
 
   ## Architecture
