@@ -28,11 +28,15 @@ STEPS
 
 The app can be installed and tested in 5 steps:
 
-Install Android Studio on your machine.
-Create an Android Virtual Device (AVD) in your Android Studio.
-Clone the NYTimes repo to your local machine.
-Open the cloned local project in Android Studio.
-Run the app.
+1. Install Android Studio on your machine.
+
+2. Create an Android Virtual Device (AVD) in your Android Studio.
+3. 
+4.Clone the NYTimes repo to your local machine.
+
+5.Open the cloned local project in Android Studio.
+
+6.Run the app.
 
 ## Testing
 The architecture components are highly testable. Following table shows how to test various parts of the app
