@@ -22,10 +22,10 @@ This app is only compatible with Android Jelly Bean and higher.
 The apk file is available for download under the [releases] tab.
 
 You will require latest version of Android Studio 3.0 (or newer) to be able to build the app
-To build this project, use the "gradlew build" command or use "Import Project" in Android Studio or
-Alternatively download this repo and extract it to your computer to Import it to your android studio
+To build this project, use the "gradlew build" command or use "Import Project" in Android Studio 
 
 STEPS
+
 The app can be installed and tested in 5 steps:
 
 Install Android Studio on your machine.
