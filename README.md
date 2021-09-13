@@ -21,7 +21,18 @@ This app is only compatible with Android Jelly Bean and higher.
 
 The apk file is available for download under the [releases] tab.
 
-To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
+You will require latest version of Android Studio 3.0 (or newer) to be able to build the app
+To build this project, use the "gradlew build" command or use "Import Project" in Android Studio or
+Alternatively download this repo and extract it to your computer to Import it to your android studio
+
+STEPS
+The app can be installed and tested in 5 steps:
+
+Install Android Studio on your machine.
+Create an Android Virtual Device (AVD) in your Android Studio.
+Clone the NYTimes repo to your local machine.
+Open the cloned local project in Android Studio.
+Run the app.
 
 ## Testing
 The architecture components are highly testable. Following table shows how to test various parts of the app
@@ -34,4 +45,5 @@ The architecture components are highly testable. Following table shows how to te
 |            | Instrumented |                    |
 | WebService | Instrumented |    MockWebServer   |
 
+Thank you for the opportunity 🙏 😊
 
